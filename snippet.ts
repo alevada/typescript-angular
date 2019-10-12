@@ -5,8 +5,8 @@ let is_beginner: boolean = false;
 let sentence: string = `My name is gabriel. 
 My message to you is ${message}`;
 
-let sentence2: string = `My name is gabriel. 
-My message to you is ` + message;
+//let sentence2: string = `My name is gabriel. 
+//My message to you is ` + message;
 
 let sentence2: string = "My name is gabriel. My message to you is " + message;
 
